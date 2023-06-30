@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcom%20to%20Itak21's%20Github!&fontSize=35&desc=I'm%20studying&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcom%20to%20ITak21's%20Github!&fontSize=35&desc=I'm%20studying&descAlign=66)
 ### Hi there 👋
 
 <!--
