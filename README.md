@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=반갑습니다&desc=Hello&fontSize=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=반갑습니다&fontAlign=50&desc=Hello&fontAlign=70&fontSize=35)
 ### Hi there 👋
 
 <!--
