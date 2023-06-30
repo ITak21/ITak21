@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcom%20to%20ITak21's%20Github!&fontAlignY=35&fontSize=35&desc=I'm%20studying&descAlign=70&descAlignY=55)
 ### 반갑습니다 👋
-현재 백엔드 개발자를 목표로 공부중입니다.
+
+
+  현재 백엔드 개발자를 목표로 공부중입니다.
+
+  
 <br/>
----
-
-
 📝Once I've used📝
 
 
