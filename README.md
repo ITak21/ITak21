@@ -2,9 +2,16 @@
 ### 반갑습니다 👋
 
 
-  현재 백엔드 개발자를 목표로 공부중입니다.
-
+- 현재 백엔드 개발자를 목표로 공부중입니다.
+- 항상 새로운 것에 도전하며 끊임없이 노력중입니다.
+<br/>
+💪Main💪
+<div align="left">
   
+ <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white"/>
+ 
+</div>
 <br/>
 📝Once I've used📝
 
@@ -25,13 +32,7 @@
   </div>
 
 
-
-
-
-
-
-
-
+<br/>
 🛠️Tool🛠️
 
 <div align="left">
